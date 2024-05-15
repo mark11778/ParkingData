@@ -12,19 +12,19 @@ options.add_argument('--headless')
 service = Service(executable_path='/usr/bin/chromedriver')
 driver = webdriver.Chrome(options=options, service=service)
 
-df = pd.DataFrame({
-    'Date Issue': [],
-    'Location': [],
-    'Comment': [],
-    'License Plate': [],
-    'Type': [],
-    'Ticket #': []
-})
-
 try:
     year = "24"  # Last two digits of the year
-    for precinct in range(5, 50):  # Loop through precinct codes 01 to 99
+    for precinct in range(1, 50):  # Loop through precinct codes 01 to 99
         precinct_code = f"{precinct:02}"  # Format to ensure two digits
+        df = pd.DataFrame({
+            'Date Issue': [],
+            'Location': [],
+            'Comment': [],
+            'License Plate': [],
+            'Type': [],
+            'Ticket #': []
+            })
+        
         for ticket_number in range(1, 100000):  # Ticket numbers from 00001 to 99999
             formatted_ticket_number = f"{ticket_number:05}"  # Format to ensure five digits
             full_ticket_number = f"{year}P{precinct_code}{formatted_ticket_number}"
@@ -78,12 +78,13 @@ try:
 
             except Exception as e:
                 print(f"No more tickets found for {full_ticket_number}, error: {e}")
-                df.to_csv(f"parking_tickets_data_{precinct:02}.csv", index=False)
+                if df.empty is False:
+                    df.to_csv(f"parking_tickets_data_{precinct:02}.csv", index=False)
+                else:
+                    print("df was empty")
+
                 break  # Break if no ticket detail page loaded, adjust as needed based on actual site behavior
 
 finally:
     driver.quit()
-    # Save DataFrame to CSV file
-    df.to_csv("parking_tickets_data.csv", index=False)
-    print(df)
-
+    print("finished")
