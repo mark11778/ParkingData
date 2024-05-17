@@ -16,7 +16,7 @@ try:
     year = "24"  # Last two digits of the year
     for precinct in range(1, 2):  # Loop through precinct codes 01 to 99
         # precinct_code = f"{precinct:02}"  # Format to ensure two digits
-        precinct_code = 1
+        precinct_code = "01"
         df = pd.read_csv('parking_tickets_data_01_copy.csv')
         
         df['Tick_Num'] = df['Ticket #'].str[5:].astype(int)
@@ -69,6 +69,7 @@ try:
                     data['Type'] = "Not Found"
                     print(f"Violation Type not found for {full_ticket_number}: {e}")
 
+                data['Tick_Num'] = ticket_number
                 new_row = pd.DataFrame([data], columns=df.columns)
                 df = pd.concat([df, new_row], ignore_index=True)
 
