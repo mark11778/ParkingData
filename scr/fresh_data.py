@@ -14,12 +14,11 @@ driver = webdriver.Chrome(options=options, service=service)
 
 try:
     year = "24"  # Last two digits of the year
-    for precinct in range(1, 2):  # Loop through precinct codes 01 to 99
-        # precinct_code = f"{precinct:02}"  # Format to ensure two digits
-        precinct_code = "01"
-        df = pd.read_csv('parking_tickets_data_01_copy.csv')
-        
-        df['Tick_Num'] = df['Ticket #'].str[5:].astype(int)
+    for precinct in range(1, 50):  # Loop through precinct codes 01 to 99
+        precinct_code = f"{precinct:02}"  # Format to ensure two digits
+        df = pd.read_csv(f"parking_tickets_data_{precinct_code}.csv")
+        if "Tick_Num" not in df.columns: 
+            df['Tick_Num'] = df['Ticket #'].str[5:].astype(int)
         start  = df['Tick_Num'].max()
         for ticket_number in range(start, 100000):  # Ticket numbers from 00001 to 99999
             formatted_ticket_number = f"{ticket_number:05}"  # Format to ensure five digits
@@ -75,8 +74,7 @@ try:
 
             except Exception as e:
                 if df.empty is False:
-                    # df.to_csv(f"parking_tickets_data_{precinct:02}_copy.csv", index=False)
-                    df.to_csv("return.csv", index=False)
+                    df.to_csv(f"parking_tickets_data_{precinct:02}.csv", index=False)
                 else:
                     print("df was empty")
 
