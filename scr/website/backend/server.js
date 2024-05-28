@@ -1,31 +1,24 @@
 const express = require('express');
 const fs = require('fs');
 const Papa = require('papaparse');
-
 const app = express();
 
-// Serve static files from the 'public' directory
 app.use(express.static('public'));
 
-
-// Path to your local CSV file
-const filePath = 'Data\\springSt.csv';
-
-app.get('/parse-csv', (req, res) => {
-    const fileStream = fs.createReadStream(filePath);
-
+app.get('/csv-data', (req, res) => {
+    const file = fs.createReadStream('Data\\springSt.csv');
     let data = [];
-    Papa.parse(fileStream, {
+
+    Papa.parse(file, {
         header: true,
-        step: function(result) {
-            data.push(result.data);
-        },
-        complete: function() {
-            console.log('Finished parsing.');
-            res.send(data);  // Send parsed data to client or just log it to the console
+        dynamicTyping: true,
+        complete: function(results) {
+            console.log('CSV parsing complete:', results.data);
+            res.json(results.data);  // Send the data to the client as JSON
         }
     });
 });
+
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
