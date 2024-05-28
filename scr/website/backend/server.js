@@ -6,7 +6,7 @@ const app = express();
 app.use(express.static('public'));
 
 app.get('/csv-data', (req, res) => {
-    const file = fs.createReadStream('Data\\springSt.csv');
+    const file = fs.createReadStream('Data\\filterDatarev2.csv');
     let data = [];
 
     Papa.parse(file, {

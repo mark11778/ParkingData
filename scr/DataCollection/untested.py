@@ -22,6 +22,7 @@ try:
             'Comment': [],
             'License Plate': [],
             'Type': [],
+            'Type #': [],
             'Ticket #': []
             })
         
@@ -72,6 +73,8 @@ try:
                 except Exception as e:
                     data['Type'] = "Not Found"
                     print(f"Violation Type not found for {full_ticket_number}: {e}")
+                    
+                data['Type #'] = data['Type #'][0:3]
 
                 new_row = pd.DataFrame([data], columns=df.columns)
                 df = pd.concat([df, new_row], ignore_index=True)
