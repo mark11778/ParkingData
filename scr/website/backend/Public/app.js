@@ -64,14 +64,48 @@ function callPythonFunction() {
         .then(response => response.json())
         .then(data => {
             console.log('Data from Python:', data.result);
-            const container = document.getElementById('pythonData');
-            const div = document.createElement('div');
-            div.textContent = `Result from Python: ${data.result}`;
-            container.appendChild(div);
+            displayDataAsTable(data.result);
         })
         .catch(error => console.error('Error:', error));
+}
+
+function displayDataAsTable(data) {
+    const container = document.getElementById('pythonData');
+    container.innerHTML = '';  // Clear previous data
+    
+    if (data.length === 0) {
+        container.textContent = 'No data available';
+        return;
+    }
+    
+    // Create table
+    const table = document.createElement('table');
+    table.border = '1';
+    
+    // Create header row
+    const headerRow = document.createElement('tr');
+    Object.keys(data[0]).forEach(key => {
+        const th = document.createElement('th');
+        th.textContent = key;
+        headerRow.appendChild(th);
+    });
+    table.appendChild(headerRow);
+    
+    // Create data rows
+    data.forEach(item => {
+        const row = document.createElement('tr');
+        Object.values(item).forEach(value => {
+            const td = document.createElement('td');
+            td.textContent = value;
+            row.appendChild(td);
+        });
+        table.appendChild(row);
+    });
+    
+    container.appendChild(table);
 }
 
 window.onload = function() {
     document.getElementById('callPythonButton').addEventListener('click', callPythonFunction);
 };
+
