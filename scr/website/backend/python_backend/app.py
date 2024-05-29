@@ -11,7 +11,7 @@ CORS(app)
 
 @app.route('/python-function', methods=['GET'])
 def my_python_function():
-    data = request.args.get('data', default='default value', type=str)
+    days = request.args.get('days', default=30, type=int)
     
     path = r'C:\Users\marke\projects\parking\ParkingData\scr\CollectedData' # use your path
     all_files = glob.glob(os.path.join(path , "*.csv"))
@@ -25,8 +25,6 @@ def my_python_function():
     df = pd.concat(li, axis=0, ignore_index=True)
 
     df['Date Issue'] = pd.to_datetime(df['Date Issue'])
-
-    days = 30  # will need to be given from the user
 
     cutoff_date = datetime.now() - timedelta(days=days)
 
@@ -51,6 +49,12 @@ def my_python_function():
     grouped_by_type = df.groupby(['Location', 'Type #', 'Most Frequent Hour', 'Most Frequent Day']).size().reset_index(name='Count')
 
     grouped_by_type = grouped_by_type.sort_values(by=['Location', 'Count'], ascending=[True, False])
+
+    map_path = r'../Data/filterDatarev3.csv'
+    map_df = pd.read_csv(map_path, index_col=False)
+    map_df['Location'] = map_df['fullStreetName'].str.upper()
+    
+    grouped_by_type = pd.merge(grouped_by_type, map_df, how="left", on=['Location'])
 
     # Replace NaN values with None
     grouped_by_type = grouped_by_type.replace({np.nan: None})

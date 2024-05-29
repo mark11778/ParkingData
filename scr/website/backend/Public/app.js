@@ -1,17 +1,3 @@
-window.onload = function() {
-    fetch('/csv-data')
-        .then(response => response.json())
-        .then(data => {
-            console.log(data);
-            const container = document.getElementById('csvData');
-            data.forEach(item => {
-                const div = document.createElement('div');
-                div.textContent = JSON.stringify(item);
-                container.appendChild(div);
-            });
-        })
-        .catch(error => console.error('Error loading CSV data:', error));
-};
 
 
 function initMap() {
@@ -105,7 +91,19 @@ function displayDataAsTable(data) {
     container.appendChild(table);
 }
 
-window.onload = function() {
-    document.getElementById('callPythonButton').addEventListener('click', callPythonFunction);
-};
 
+window.onload = function() {
+    callPythonFunction()
+    fetch('/csv-data')
+        .then(response => response.json())
+        .then(data => {
+            console.log(data);
+            const container = document.getElementById('csvData');
+            data.forEach(item => {
+                const div = document.createElement('div');
+                div.textContent = JSON.stringify(item);
+                container.appendChild(div);
+            });
+        })
+        .catch(error => console.error('Error loading CSV data:', error));
+};
