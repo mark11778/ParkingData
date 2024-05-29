@@ -17,10 +17,9 @@ try:
     year = "24"  # Last two digits of the year
     for precinct in range(1, 50):  # Loop through precinct codes 01 to 99
         precinct_code = f"{precinct:02}"  # Format to ensure two digit
-        file = f"../CollectedData/parking_tickets_data_{precinct_code}.csv"
-        if os.path.exists(file) is False:
-            next
-        df = pd.read_csv(f"parking_tickets_data_{precinct_code}.csv")
+        if precinct == 21:
+            continue
+        df = pd.read_csv(f"../CollectedData/parking_tickets_data_{precinct_code}.csv")
         if "Tick_Num" not in df.columns: 
             df['Tick_Num'] = df['Ticket #'].str[5:].astype(int)
         if "Type #" not in df.columns:
