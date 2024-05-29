@@ -58,3 +58,20 @@ function getCoords(str) {
     console.log(coords)
     return coords;
 }
+
+function callPythonFunction() {
+    fetch('http://localhost:5000/python-function?data=hello')
+        .then(response => response.json())
+        .then(data => {
+            console.log('Data from Python:', data.result);
+            const container = document.getElementById('pythonData');
+            const div = document.createElement('div');
+            div.textContent = `Result from Python: ${data.result}`;
+            container.appendChild(div);
+        })
+        .catch(error => console.error('Error:', error));
+}
+
+window.onload = function() {
+    document.getElementById('callPythonButton').addEventListener('click', callPythonFunction);
+};
