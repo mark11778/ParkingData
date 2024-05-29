@@ -37,30 +37,23 @@ def my_python_function():
     df['Hour'] = df['Date Issue'].dt.hour
     df['DayOfWeek'] = df['Date Issue'].dt.day_name()
 
-    # Group by street, type, and hour, then count occurrences
     grouped_by_hour = df.groupby(['Location', 'Type', 'Hour']).size().reset_index(name='Count')
-    # Find the most frequent hour for each street and ticket type
     most_frequent_hours = grouped_by_hour.loc[grouped_by_hour.groupby(['Location', 'Type'])['Count'].idxmax()]
 
-    # Rename columns to prepare for merging
     most_frequent_hours.rename(columns={'Hour': 'Most Frequent Hour', 'Count': 'Max Hour Count'}, inplace=True)
 
-    # Group by street, type, and day of week, then count occurrences
     grouped_by_day = df.groupby(['Location', 'Type', 'DayOfWeek']).size().reset_index(name='Count')
-    # Find the most frequent day for each street and ticket type
+
     most_frequent_days = grouped_by_day.loc[grouped_by_day.groupby(['Location', 'Type'])['Count'].idxmax()]
 
-    # Rename columns to prepare for merging
     most_frequent_days.rename(columns={'DayOfWeek': 'Most Frequent Day', 'Count': 'Max Day Count'}, inplace=True)
 
-    # Merge the most frequent hour and day back into the original DataFrame
+
     df = df.merge(most_frequent_hours[['Location', 'Type', 'Most Frequent Hour']], on=['Location', 'Type'], how='left')
     df = df.merge(most_frequent_days[['Location', 'Type', 'Most Frequent Day']], on=['Location', 'Type'], how='left')
 
-    # Group by street, ticket type, most frequent hour, and most frequent day, then count occurrences
     grouped_by_type = df.groupby(['Location', 'Type', 'Most Frequent Hour', 'Most Frequent Day']).size().reset_index(name='Count')
 
-    # Sort by street name and then by ticket type count
     grouped_by_type = grouped_by_type.sort_values(by=['Location', 'Count'], ascending=[True, False])
 
     # Replace NaN values with None
