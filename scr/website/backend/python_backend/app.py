@@ -33,10 +33,6 @@ def my_python_function():
     df = df[df['Date Issue'] >= cutoff_date]
 
 
-    # should be able to get rid of both of these 
-    df['Hour'] = df['Date Issue'].dt.hour
-    df['DayOfWeek'] = df['Date Issue'].dt.day_name()
-
     grouped_by_hour = df.groupby(['Location', 'Type #', 'Hour']).size().reset_index(name='Count')
     most_frequent_hours = grouped_by_hour.loc[grouped_by_hour.groupby(['Location', 'Type #'])['Count'].idxmax()]
 
