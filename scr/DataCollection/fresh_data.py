@@ -6,6 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from datetime import datetime
 
 options = Options()
 options.add_argument('--headless')
@@ -53,7 +54,7 @@ try:
                         strong_following_text = p.text.replace(strong_tag, '').strip()
 
                         if 'Issue Date and Time:' in strong_tag:
-                            data['Date Issue'] = strong_following_text
+                            data['Date Issue'] = pd.to_datetime(strong_following_text)
                         elif 'Location:' in strong_tag:
                             data['Location'] = strong_following_text
                         elif 'Comment:' in strong_tag:
@@ -74,6 +75,12 @@ try:
                     print(f"Violation Type not found for {full_ticket_number}: {e}")
 
                 data['Tick_Num'] = ticket_number
+
+                data['Type #'] = data['Type'].str.split(" ").str[0]
+                data["Hour"] = data['Date Issue'].dt.hour
+                data["DayOfWeek"] = data['Date Issue'].dt.day_name()
+
+
                 new_row = pd.DataFrame([data], columns=df.columns)
                 df = pd.concat([df, new_row], ignore_index=True)
 
