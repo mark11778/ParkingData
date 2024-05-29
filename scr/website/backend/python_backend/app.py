@@ -37,22 +37,22 @@ def my_python_function():
     df['Hour'] = df['Date Issue'].dt.hour
     df['DayOfWeek'] = df['Date Issue'].dt.day_name()
 
-    grouped_by_hour = df.groupby(['Location', 'Type', 'Hour']).size().reset_index(name='Count')
-    most_frequent_hours = grouped_by_hour.loc[grouped_by_hour.groupby(['Location', 'Type'])['Count'].idxmax()]
+    grouped_by_hour = df.groupby(['Location', 'Type #', 'Hour']).size().reset_index(name='Count')
+    most_frequent_hours = grouped_by_hour.loc[grouped_by_hour.groupby(['Location', 'Type #'])['Count'].idxmax()]
 
     most_frequent_hours.rename(columns={'Hour': 'Most Frequent Hour', 'Count': 'Max Hour Count'}, inplace=True)
 
-    grouped_by_day = df.groupby(['Location', 'Type', 'DayOfWeek']).size().reset_index(name='Count')
+    grouped_by_day = df.groupby(['Location', 'Type #', 'DayOfWeek']).size().reset_index(name='Count')
 
-    most_frequent_days = grouped_by_day.loc[grouped_by_day.groupby(['Location', 'Type'])['Count'].idxmax()]
+    most_frequent_days = grouped_by_day.loc[grouped_by_day.groupby(['Location', 'Type #'])['Count'].idxmax()]
 
     most_frequent_days.rename(columns={'DayOfWeek': 'Most Frequent Day', 'Count': 'Max Day Count'}, inplace=True)
 
 
-    df = df.merge(most_frequent_hours[['Location', 'Type', 'Most Frequent Hour']], on=['Location', 'Type'], how='left')
-    df = df.merge(most_frequent_days[['Location', 'Type', 'Most Frequent Day']], on=['Location', 'Type'], how='left')
+    df = df.merge(most_frequent_hours[['Location', 'Type #', 'Most Frequent Hour']], on=['Location', 'Type #'], how='left')
+    df = df.merge(most_frequent_days[['Location', 'Type #', 'Most Frequent Day']], on=['Location', 'Type #'], how='left')
 
-    grouped_by_type = df.groupby(['Location', 'Type', 'Most Frequent Hour', 'Most Frequent Day']).size().reset_index(name='Count')
+    grouped_by_type = df.groupby(['Location', 'Type #', 'Most Frequent Hour', 'Most Frequent Day']).size().reset_index(name='Count')
 
     grouped_by_type = grouped_by_type.sort_values(by=['Location', 'Count'], ascending=[True, False])
 
