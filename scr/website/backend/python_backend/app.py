@@ -56,6 +56,12 @@ def my_python_function():
 
     grouped_by_type['color'] = grouped_by_type.apply(lambda row: colors[round(row['Count'] / row['Max Count'] * 6)], axis=1)
 
+
+
+    temp = pd.read_csv('../Data/insideMad2.csv', index_col=False)
+    temp["Location"] = temp['fullStreetName'].str.upper()
+    grouped_by_type = grouped_by_type.merge(temp, on='Location', how='left')
+
     grouped_by_type = grouped_by_type.replace({np.nan: None})
     
     

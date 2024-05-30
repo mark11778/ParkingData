@@ -5,19 +5,19 @@ const app = express();
 
 app.use(express.static('public'));
 
-app.get('/csv-data', (req, res) => {
-    const file = fs.createReadStream('Data\\filterDatarev3.csv');
-    let data = [];
+// app.get('/csv-data', (req, res) => {
+//     const file = fs.createReadStream('Data\\filterDatarev3.csv');
+//     let data = [];
 
-    Papa.parse(file, {
-        header: true,
-        dynamicTyping: true,
-        complete: function(results) {
-            console.log('CSV parsing complete:', results.data);
-            res.json(results.data);  // Send the data to the client as JSON
-        }
-    });
-});
+//     Papa.parse(file, {
+//         header: true,
+//         dynamicTyping: true,
+//         complete: function(results) {
+//             console.log('CSV parsing complete:', results.data);
+//             res.json(results.data);  // Send the data to the client as JSON
+//         }
+//     });
+// });
 
 
 const PORT = process.env.PORT || 3000;
