@@ -12,6 +12,8 @@ CORS(app)
 @app.route('/python-function', methods=['GET'])
 def my_python_function():
     days = request.args.get('days', default=30, type=int)
+
+    colors = ["#0000e6", "#3b00f2", "#5b00fb", "#7e00fa", "#b500d1", "#d70075", "#e60000"]
     
     path = r'C:\Users\marke\projects\parking\ParkingData\scr\CollectedData' # use your path
     all_files = glob.glob(os.path.join(path , "*.csv"))
@@ -30,7 +32,6 @@ def my_python_function():
 
     df = df[df['Date Issue'] >= cutoff_date]
 
-
     grouped_by_hour = df.groupby(['Location', 'Type #', 'Hour']).size().reset_index(name='Count')
     most_frequent_hours = grouped_by_hour.loc[grouped_by_hour.groupby(['Location', 'Type #'])['Count'].idxmax()]
 
@@ -40,26 +41,26 @@ def my_python_function():
 
     most_frequent_days = grouped_by_day.loc[grouped_by_day.groupby(['Location', 'Type #'])['Count'].idxmax()]
 
-    most_frequent_days.rename(columns={'DayOfWeek': 'Most Frequent Day', 'Count': 'Max Day Count'}, inplace=True)
 
+    most_frequent_days.rename(columns={'DayOfWeek': 'Most Frequent Day', 'Count': 'Max Day Count'}, inplace=True)
 
     df = df.merge(most_frequent_hours[['Location', 'Type #', 'Most Frequent Hour']], on=['Location', 'Type #'], how='left')
     df = df.merge(most_frequent_days[['Location', 'Type #', 'Most Frequent Day']], on=['Location', 'Type #'], how='left')
 
     grouped_by_type = df.groupby(['Location', 'Type #', 'Most Frequent Hour', 'Most Frequent Day']).size().reset_index(name='Count')
-
     grouped_by_type = grouped_by_type.sort_values(by=['Location', 'Count'], ascending=[True, False])
 
-    map_path = r'../Data/filterDatarev3.csv'
-    map_df = pd.read_csv(map_path, index_col=False)
-    map_df['Location'] = map_df['fullStreetName'].str.upper()
-    
-    grouped_by_type = pd.merge(grouped_by_type, map_df, how="left", on=['Location'])
+    max_count_per_location = grouped_by_type.groupby('Location')['Count'].max().reset_index(name='Max Count')
 
-    # Replace NaN values with None
+    grouped_by_type = grouped_by_type.merge(max_count_per_location, on='Location', how='left')
+
+    grouped_by_type['color'] = grouped_by_type.apply(lambda row: colors[round(row['Count'] / row['Max Count'] * 6)], axis=1)
+
     grouped_by_type = grouped_by_type.replace({np.nan: None})
-    csv_data = grouped_by_type.to_dict(orient='records')
     
+    
+    csv_data = grouped_by_type.to_dict(orient='records')
+
     print(f"Python function ran with data: {csv_data}")  # Log to console
     return jsonify({'result': csv_data})
 
