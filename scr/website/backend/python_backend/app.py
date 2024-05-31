@@ -13,7 +13,9 @@ CORS(app)
 def my_python_function():
     days = request.args.get('days', default=30, type=int)
 
-    colors = ["#0000e6", "#3b00f2", "#5b00fb", "#7e00fa", "#b500d1", "#d70075", "#e60000"]
+    # colors = ["#0000e6", "#3b00f2", "#5b00fb", "#7e00fa", "#b500d1", "#d70075", "#e60000"]
+    colors = ['#e60000', '#d70075', '#b500d1', '#7e00fa', '#5b00fb', '#3b00f2', '#0000e6']
+
     
     path = r'C:\Users\marke\projects\parking\ParkingData\scr\CollectedData' # use your path
     all_files = glob.glob(os.path.join(path , "*.csv"))
@@ -31,6 +33,7 @@ def my_python_function():
     cutoff_date = datetime.now() - timedelta(days=days)
 
     df = df[df['Date Issue'] >= cutoff_date]
+    df = df[~df['Location'].str.contains("BUCKEYE LOT")]
 
     grouped_by_hour = df.groupby(['Location', 'Type #', 'Hour']).size().reset_index(name='Count')
     most_frequent_hours = grouped_by_hour.loc[grouped_by_hour.groupby(['Location', 'Type #'])['Count'].idxmax()]
