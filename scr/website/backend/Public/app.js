@@ -95,6 +95,8 @@ function displayDataAsTable(data) {
     });
 
     container.appendChild(table);
+
+    document.getElementById('searchInput').addEventListener('input', filterTableByLocation);
 }
 
 function filterTableByLocation() {
