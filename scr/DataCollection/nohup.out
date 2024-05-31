@@ -1,0 +1,4354 @@
+License Plate not found for 24P0100037: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0100083: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0100084: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0100115: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0100116: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0100207: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0100208: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0100210: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0100284: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0100285: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0100407: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0100408: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0100409: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0100410: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0100420: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0100421: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0100439: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0100440: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0100538: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+No more tickets found for 24P0100639, error: Message: 
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0200073: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0200074: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0200087: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0200169: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0200331: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0200534: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0200547: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0200548: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0201300: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+No more tickets found for 24P0203133, error: Message: 
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300059: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300068: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300069: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300070: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300073: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300103: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300104: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300176: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300181: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300182: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300188: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300190: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300198: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300201: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300202: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300216: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300217: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300222: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300223: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300241: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300242: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300245: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300252: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300253: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300258: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300289: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300406: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300408: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300472: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300486: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300487: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300488: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300512: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300513: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300531: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300560: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300620: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300621: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300622: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300623: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300636: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300637: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300638: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300692: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300693: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300694: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300717: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300718: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300719: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300725: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300780: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300810: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300812: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300813: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300816: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300898: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300899: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300933: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300934: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300956: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300957: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0300970: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0301005: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0301006: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0301019: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0301085: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0301099: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0301104: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0301141: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0301142: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0301143: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0301144: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0301169: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0301170: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0301175: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0301176: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0301205: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0301206: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0301245: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0301276: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0301289: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0301326: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0301328: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0301329: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0301352: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+No more tickets found for 24P0301368, error: Message: 
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0400118: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0400408: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0400423: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0400424: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0400642: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0400687: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0400688: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0400690: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0400714: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0400895: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0401113: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+No more tickets found for 24P0401307, error: Message: 
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+No more tickets found for 24P0500207, error: Message: 
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0600024: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0600490: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0601344: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0601687: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+No more tickets found for 24P0601815, error: Message: 
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0700131: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0700250: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0700251: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0700308: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0700309: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0700743: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0701072: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+No more tickets found for 24P0701453, error: Message: 
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0800201: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0800202: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0800204: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0800205: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0800260: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0800262: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0800313: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0800383: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0800419: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0800420: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0800421: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0800434: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0800452: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0800453: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0800482: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0800486: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0800490: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0800494: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0801249: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0801250: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0801453: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=124.0.6367.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ecc5e5d <unknown>
+#3 0x57db5ecc5f11 <unknown>
+#4 0x57db5ed08cc4 <unknown>
+#5 0x57db5ece7dcd <unknown>
+#6 0x57db5ed06186 <unknown>
+#7 0x57db5ece7b43 <unknown>
+#8 0x57db5ecb8ea4 <unknown>
+#9 0x57db5ecb984e <unknown>
+#10 0x57db5ef3846f <unknown>
+#11 0x57db5ef3c2ee <unknown>
+#12 0x57db5ef25e78 <unknown>
+#13 0x57db5ef3cd5d <unknown>
+#14 0x57db5ef0c13e <unknown>
+#15 0x57db5ef606c8 <unknown>
+#16 0x57db5ef608d6 <unknown>
+#17 0x57db5ef6fc99 <unknown>
+#18 0x77f8b0eceac3 <unknown>
+
+finished
+Traceback (most recent call last):
+  File "/home/mack/ParkingData/scr/untested.py", line 39, in <module>
+    search_button = driver.find_element(By.ID, "search_ticket")
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mack/ParkingData/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mack/ParkingData/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "/home/mack/ParkingData/venv/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome-headless-shell=124.0.6367.207)
+Stacktrace:
+#0 0x57db5ef70bb3 <unknown>
+#1 0x57db5ec7bf77 <unknown>
+#2 0x57db5ec52b8e <unknown>
+#3 0x57db5ecefedd <unknown>
+#4 0x57db5ed05b08 <unknown>
+#5 0x57db5ece7b43 <unknown>
+#6 0x57db5ecb8ea4 <unknown>
+#7 0x57db5ecb984e <unknown>
+#8 0x57db5ef3846f <unknown>
+#9 0x57db5ef3c2ee <unknown>
+#10 0x57db5ef25e78 <unknown>
+#11 0x57db5ef3cd5d <unknown>
+#12 0x57db5ef0c13e <unknown>
+#13 0x57db5ef606c8 <unknown>
+#14 0x57db5ef608d6 <unknown>
+#15 0x57db5ef6fc99 <unknown>
+#16 0x77f8b0eceac3 <unknown>
+
+License Plate not found for 24P0301442: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=125.0.6422.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5b33714d169a <unknown>
+#1 0x5b33711d265c <unknown>
+#2 0x5b337121d865 <unknown>
+#3 0x5b337121d921 <unknown>
+#4 0x5b3371261c74 <unknown>
+#5 0x5b337124059d <unknown>
+#6 0x5b337125f02d <unknown>
+#7 0x5b3371240313 <unknown>
+#8 0x5b3371210586 <unknown>
+#9 0x5b3371210efe <unknown>
+#10 0x5b337149abdf <unknown>
+#11 0x5b337149ed6a <unknown>
+#12 0x5b3371488a3c <unknown>
+#13 0x5b337149f4f1 <unknown>
+#14 0x5b337146e84e <unknown>
+#15 0x5b33714c0c88 <unknown>
+#16 0x5b33714c0e96 <unknown>
+#17 0x5b33714d0751 <unknown>
+#18 0x76adf27faac3 <unknown>
+
+License Plate not found for 24P0301483: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=125.0.6422.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5b33714d169a <unknown>
+#1 0x5b33711d265c <unknown>
+#2 0x5b337121d865 <unknown>
+#3 0x5b337121d921 <unknown>
+#4 0x5b3371261c74 <unknown>
+#5 0x5b337124059d <unknown>
+#6 0x5b337125f02d <unknown>
+#7 0x5b3371240313 <unknown>
+#8 0x5b3371210586 <unknown>
+#9 0x5b3371210efe <unknown>
+#10 0x5b337149abdf <unknown>
+#11 0x5b337149ed6a <unknown>
+#12 0x5b3371488a3c <unknown>
+#13 0x5b337149f4f1 <unknown>
+#14 0x5b337146e84e <unknown>
+#15 0x5b33714c0c88 <unknown>
+#16 0x5b33714c0e96 <unknown>
+#17 0x5b33714d0751 <unknown>
+#18 0x76adf27faac3 <unknown>
+
+License Plate not found for 24P0701578: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=125.0.6422.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5b33714d169a <unknown>
+#1 0x5b33711d265c <unknown>
+#2 0x5b337121d865 <unknown>
+#3 0x5b337121d921 <unknown>
+#4 0x5b3371261c74 <unknown>
+#5 0x5b337124059d <unknown>
+#6 0x5b337125f02d <unknown>
+#7 0x5b3371240313 <unknown>
+#8 0x5b3371210586 <unknown>
+#9 0x5b3371210efe <unknown>
+#10 0x5b337149abdf <unknown>
+#11 0x5b337149ed6a <unknown>
+#12 0x5b3371488a3c <unknown>
+#13 0x5b337149f4f1 <unknown>
+#14 0x5b337146e84e <unknown>
+#15 0x5b33714c0c88 <unknown>
+#16 0x5b33714c0e96 <unknown>
+#17 0x5b33714d0751 <unknown>
+#18 0x76adf27faac3 <unknown>
+
+License Plate not found for 24P0701579: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=125.0.6422.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5b33714d169a <unknown>
+#1 0x5b33711d265c <unknown>
+#2 0x5b337121d865 <unknown>
+#3 0x5b337121d921 <unknown>
+#4 0x5b3371261c74 <unknown>
+#5 0x5b337124059d <unknown>
+#6 0x5b337125f02d <unknown>
+#7 0x5b3371240313 <unknown>
+#8 0x5b3371210586 <unknown>
+#9 0x5b3371210efe <unknown>
+#10 0x5b337149abdf <unknown>
+#11 0x5b337149ed6a <unknown>
+#12 0x5b3371488a3c <unknown>
+#13 0x5b337149f4f1 <unknown>
+#14 0x5b337146e84e <unknown>
+#15 0x5b33714c0c88 <unknown>
+#16 0x5b33714c0e96 <unknown>
+#17 0x5b33714d0751 <unknown>
+#18 0x76adf27faac3 <unknown>
+
+License Plate not found for 24P0801966: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=125.0.6422.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5b33714d169a <unknown>
+#1 0x5b33711d265c <unknown>
+#2 0x5b337121d865 <unknown>
+#3 0x5b337121d921 <unknown>
+#4 0x5b3371261c74 <unknown>
+#5 0x5b337124059d <unknown>
+#6 0x5b337125f02d <unknown>
+#7 0x5b3371240313 <unknown>
+#8 0x5b3371210586 <unknown>
+#9 0x5b3371210efe <unknown>
+#10 0x5b337149abdf <unknown>
+#11 0x5b337149ed6a <unknown>
+#12 0x5b3371488a3c <unknown>
+#13 0x5b337149f4f1 <unknown>
+#14 0x5b337146e84e <unknown>
+#15 0x5b33714c0c88 <unknown>
+#16 0x5b33714c0e96 <unknown>
+#17 0x5b33714d0751 <unknown>
+#18 0x76adf27faac3 <unknown>
+
+License Plate not found for 24P0801967: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=125.0.6422.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5b33714d169a <unknown>
+#1 0x5b33711d265c <unknown>
+#2 0x5b337121d865 <unknown>
+#3 0x5b337121d921 <unknown>
+#4 0x5b3371261c74 <unknown>
+#5 0x5b337124059d <unknown>
+#6 0x5b337125f02d <unknown>
+#7 0x5b3371240313 <unknown>
+#8 0x5b3371210586 <unknown>
+#9 0x5b3371210efe <unknown>
+#10 0x5b337149abdf <unknown>
+#11 0x5b337149ed6a <unknown>
+#12 0x5b3371488a3c <unknown>
+#13 0x5b337149f4f1 <unknown>
+#14 0x5b337146e84e <unknown>
+#15 0x5b33714c0c88 <unknown>
+#16 0x5b33714c0e96 <unknown>
+#17 0x5b33714d0751 <unknown>
+#18 0x76adf27faac3 <unknown>
+
+License Plate not found for 24P1001766: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=125.0.6422.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5b33714d169a <unknown>
+#1 0x5b33711d265c <unknown>
+#2 0x5b337121d865 <unknown>
+#3 0x5b337121d921 <unknown>
+#4 0x5b3371261c74 <unknown>
+#5 0x5b337124059d <unknown>
+#6 0x5b337125f02d <unknown>
+#7 0x5b3371240313 <unknown>
+#8 0x5b3371210586 <unknown>
+#9 0x5b3371210efe <unknown>
+#10 0x5b337149abdf <unknown>
+#11 0x5b337149ed6a <unknown>
+#12 0x5b3371488a3c <unknown>
+#13 0x5b337149f4f1 <unknown>
+#14 0x5b337146e84e <unknown>
+#15 0x5b33714c0c88 <unknown>
+#16 0x5b33714c0e96 <unknown>
+#17 0x5b33714d0751 <unknown>
+#18 0x76adf27faac3 <unknown>
+
+License Plate not found for 24P1303203: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=125.0.6422.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5b33714d169a <unknown>
+#1 0x5b33711d265c <unknown>
+#2 0x5b337121d865 <unknown>
+#3 0x5b337121d921 <unknown>
+#4 0x5b3371261c74 <unknown>
+#5 0x5b337124059d <unknown>
+#6 0x5b337125f02d <unknown>
+#7 0x5b3371240313 <unknown>
+#8 0x5b3371210586 <unknown>
+#9 0x5b3371210efe <unknown>
+#10 0x5b337149abdf <unknown>
+#11 0x5b337149ed6a <unknown>
+#12 0x5b3371488a3c <unknown>
+#13 0x5b337149f4f1 <unknown>
+#14 0x5b337146e84e <unknown>
+#15 0x5b33714c0c88 <unknown>
+#16 0x5b33714c0e96 <unknown>
+#17 0x5b33714d0751 <unknown>
+#18 0x76adf27faac3 <unknown>
+
+License Plate not found for 24P1303212: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=125.0.6422.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5b33714d169a <unknown>
+#1 0x5b33711d265c <unknown>
+#2 0x5b337121d865 <unknown>
+#3 0x5b337121d921 <unknown>
+#4 0x5b3371261c74 <unknown>
+#5 0x5b337124059d <unknown>
+#6 0x5b337125f02d <unknown>
+#7 0x5b3371240313 <unknown>
+#8 0x5b3371210586 <unknown>
+#9 0x5b3371210efe <unknown>
+#10 0x5b337149abdf <unknown>
+#11 0x5b337149ed6a <unknown>
+#12 0x5b3371488a3c <unknown>
+#13 0x5b337149f4f1 <unknown>
+#14 0x5b337146e84e <unknown>
+#15 0x5b33714c0c88 <unknown>
+#16 0x5b33714c0e96 <unknown>
+#17 0x5b33714d0751 <unknown>
+#18 0x76adf27faac3 <unknown>
+
+License Plate not found for 24P1303213: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=125.0.6422.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5b33714d169a <unknown>
+#1 0x5b33711d265c <unknown>
+#2 0x5b337121d865 <unknown>
+#3 0x5b337121d921 <unknown>
+#4 0x5b3371261c74 <unknown>
+#5 0x5b337124059d <unknown>
+#6 0x5b337125f02d <unknown>
+#7 0x5b3371240313 <unknown>
+#8 0x5b3371210586 <unknown>
+#9 0x5b3371210efe <unknown>
+#10 0x5b337149abdf <unknown>
+#11 0x5b337149ed6a <unknown>
+#12 0x5b3371488a3c <unknown>
+#13 0x5b337149f4f1 <unknown>
+#14 0x5b337146e84e <unknown>
+#15 0x5b33714c0c88 <unknown>
+#16 0x5b33714c0e96 <unknown>
+#17 0x5b33714d0751 <unknown>
+#18 0x76adf27faac3 <unknown>
+
+License Plate not found for 24P1303315: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=125.0.6422.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5b33714d169a <unknown>
+#1 0x5b33711d265c <unknown>
+#2 0x5b337121d865 <unknown>
+#3 0x5b337121d921 <unknown>
+#4 0x5b3371261c74 <unknown>
+#5 0x5b337124059d <unknown>
+#6 0x5b337125f02d <unknown>
+#7 0x5b3371240313 <unknown>
+#8 0x5b3371210586 <unknown>
+#9 0x5b3371210efe <unknown>
+#10 0x5b337149abdf <unknown>
+#11 0x5b337149ed6a <unknown>
+#12 0x5b3371488a3c <unknown>
+#13 0x5b337149f4f1 <unknown>
+#14 0x5b337146e84e <unknown>
+#15 0x5b33714c0c88 <unknown>
+#16 0x5b33714c0e96 <unknown>
+#17 0x5b33714d0751 <unknown>
+#18 0x76adf27faac3 <unknown>
+
+License Plate not found for 24P1303316: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=125.0.6422.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5b33714d169a <unknown>
+#1 0x5b33711d265c <unknown>
+#2 0x5b337121d865 <unknown>
+#3 0x5b337121d921 <unknown>
+#4 0x5b3371261c74 <unknown>
+#5 0x5b337124059d <unknown>
+#6 0x5b337125f02d <unknown>
+#7 0x5b3371240313 <unknown>
+#8 0x5b3371210586 <unknown>
+#9 0x5b3371210efe <unknown>
+#10 0x5b337149abdf <unknown>
+#11 0x5b337149ed6a <unknown>
+#12 0x5b3371488a3c <unknown>
+#13 0x5b337149f4f1 <unknown>
+#14 0x5b337146e84e <unknown>
+#15 0x5b33714c0c88 <unknown>
+#16 0x5b33714c0e96 <unknown>
+#17 0x5b33714d0751 <unknown>
+#18 0x76adf27faac3 <unknown>
+
+License Plate not found for 24P1401006: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=125.0.6422.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5b33714d169a <unknown>
+#1 0x5b33711d265c <unknown>
+#2 0x5b337121d865 <unknown>
+#3 0x5b337121d921 <unknown>
+#4 0x5b3371261c74 <unknown>
+#5 0x5b337124059d <unknown>
+#6 0x5b337125f02d <unknown>
+#7 0x5b3371240313 <unknown>
+#8 0x5b3371210586 <unknown>
+#9 0x5b3371210efe <unknown>
+#10 0x5b337149abdf <unknown>
+#11 0x5b337149ed6a <unknown>
+#12 0x5b3371488a3c <unknown>
+#13 0x5b337149f4f1 <unknown>
+#14 0x5b337146e84e <unknown>
+#15 0x5b33714c0c88 <unknown>
+#16 0x5b33714c0e96 <unknown>
+#17 0x5b33714d0751 <unknown>
+#18 0x76adf27faac3 <unknown>
+
+License Plate not found for 24P1600363: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=125.0.6422.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5b33714d169a <unknown>
+#1 0x5b33711d265c <unknown>
+#2 0x5b337121d865 <unknown>
+#3 0x5b337121d921 <unknown>
+#4 0x5b3371261c74 <unknown>
+#5 0x5b337124059d <unknown>
+#6 0x5b337125f02d <unknown>
+#7 0x5b3371240313 <unknown>
+#8 0x5b3371210586 <unknown>
+#9 0x5b3371210efe <unknown>
+#10 0x5b337149abdf <unknown>
+#11 0x5b337149ed6a <unknown>
+#12 0x5b3371488a3c <unknown>
+#13 0x5b337149f4f1 <unknown>
+#14 0x5b337146e84e <unknown>
+#15 0x5b33714c0c88 <unknown>
+#16 0x5b33714c0e96 <unknown>
+#17 0x5b33714d0751 <unknown>
+#18 0x76adf27faac3 <unknown>
+
+License Plate not found for 24P1800022: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=125.0.6422.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5b33714d169a <unknown>
+#1 0x5b33711d265c <unknown>
+#2 0x5b337121d865 <unknown>
+#3 0x5b337121d921 <unknown>
+#4 0x5b3371261c74 <unknown>
+#5 0x5b337124059d <unknown>
+#6 0x5b337125f02d <unknown>
+#7 0x5b3371240313 <unknown>
+#8 0x5b3371210586 <unknown>
+#9 0x5b3371210efe <unknown>
+#10 0x5b337149abdf <unknown>
+#11 0x5b337149ed6a <unknown>
+#12 0x5b3371488a3c <unknown>
+#13 0x5b337149f4f1 <unknown>
+#14 0x5b337146e84e <unknown>
+#15 0x5b33714c0c88 <unknown>
+#16 0x5b33714c0e96 <unknown>
+#17 0x5b33714d0751 <unknown>
+#18 0x76adf27faac3 <unknown>
+
+License Plate not found for 24P2000710: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=125.0.6422.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5b33714d169a <unknown>
+#1 0x5b33711d265c <unknown>
+#2 0x5b337121d865 <unknown>
+#3 0x5b337121d921 <unknown>
+#4 0x5b3371261c74 <unknown>
+#5 0x5b337124059d <unknown>
+#6 0x5b337125f02d <unknown>
+#7 0x5b3371240313 <unknown>
+#8 0x5b3371210586 <unknown>
+#9 0x5b3371210efe <unknown>
+#10 0x5b337149abdf <unknown>
+#11 0x5b337149ed6a <unknown>
+#12 0x5b3371488a3c <unknown>
+#13 0x5b337149f4f1 <unknown>
+#14 0x5b337146e84e <unknown>
+#15 0x5b33714c0c88 <unknown>
+#16 0x5b33714c0e96 <unknown>
+#17 0x5b33714d0751 <unknown>
+#18 0x76adf27faac3 <unknown>
+
+License Plate not found for 24P2000726: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=125.0.6422.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5b33714d169a <unknown>
+#1 0x5b33711d265c <unknown>
+#2 0x5b337121d865 <unknown>
+#3 0x5b337121d921 <unknown>
+#4 0x5b3371261c74 <unknown>
+#5 0x5b337124059d <unknown>
+#6 0x5b337125f02d <unknown>
+#7 0x5b3371240313 <unknown>
+#8 0x5b3371210586 <unknown>
+#9 0x5b3371210efe <unknown>
+#10 0x5b337149abdf <unknown>
+#11 0x5b337149ed6a <unknown>
+#12 0x5b3371488a3c <unknown>
+#13 0x5b337149f4f1 <unknown>
+#14 0x5b337146e84e <unknown>
+#15 0x5b33714c0c88 <unknown>
+#16 0x5b33714c0e96 <unknown>
+#17 0x5b33714d0751 <unknown>
+#18 0x76adf27faac3 <unknown>
+
+finished
+Traceback (most recent call last):
+  File "/home/mack/ParkingData/scr/DataCollection/fresh_data.py", line 23, in <module>
+    df = pd.read_csv(f"../CollectedData/parking_tickets_data_{precinct_code}.csv")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mack/ParkingData/venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mack/ParkingData/venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mack/ParkingData/venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mack/ParkingData/venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "/home/mack/ParkingData/venv/lib/python3.12/site-packages/pandas/io/common.py", line 873, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '../CollectedData/parking_tickets_data_21.csv'
+finished
+Traceback (most recent call last):
+  File "/home/mack/ParkingData/scr/DataCollection/fresh_data.py", line 45, in <module>
+    wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "div#ticket_detail div.col-md-6")))
+  File "/home/mack/ParkingData/venv/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 102, in until
+    time.sleep(self._poll)
+KeyboardInterrupt
+License Plate not found for 24P2201773: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=125.0.6422.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x637a7c2a369a <unknown>
+#1 0x637a7bfa465c <unknown>
+#2 0x637a7bfef865 <unknown>
+#3 0x637a7bfef921 <unknown>
+#4 0x637a7c033c74 <unknown>
+#5 0x637a7c01259d <unknown>
+#6 0x637a7c03102d <unknown>
+#7 0x637a7c012313 <unknown>
+#8 0x637a7bfe2586 <unknown>
+#9 0x637a7bfe2efe <unknown>
+#10 0x637a7c26cbdf <unknown>
+#11 0x637a7c270d6a <unknown>
+#12 0x637a7c25aa3c <unknown>
+#13 0x637a7c2714f1 <unknown>
+#14 0x637a7c24084e <unknown>
+#15 0x637a7c292c88 <unknown>
+#16 0x637a7c292e96 <unknown>
+#17 0x637a7c2a2751 <unknown>
+#18 0x7fa4abd65ac3 <unknown>
+
+License Plate not found for 24P2201775: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=125.0.6422.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x637a7c2a369a <unknown>
+#1 0x637a7bfa465c <unknown>
+#2 0x637a7bfef865 <unknown>
+#3 0x637a7bfef921 <unknown>
+#4 0x637a7c033c74 <unknown>
+#5 0x637a7c01259d <unknown>
+#6 0x637a7c03102d <unknown>
+#7 0x637a7c012313 <unknown>
+#8 0x637a7bfe2586 <unknown>
+#9 0x637a7bfe2efe <unknown>
+#10 0x637a7c26cbdf <unknown>
+#11 0x637a7c270d6a <unknown>
+#12 0x637a7c25aa3c <unknown>
+#13 0x637a7c2714f1 <unknown>
+#14 0x637a7c24084e <unknown>
+#15 0x637a7c292c88 <unknown>
+#16 0x637a7c292e96 <unknown>
+#17 0x637a7c2a2751 <unknown>
+#18 0x7fa4abd65ac3 <unknown>
+
+License Plate not found for 24P3104401: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=125.0.6422.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x637a7c2a369a <unknown>
+#1 0x637a7bfa465c <unknown>
+#2 0x637a7bfef865 <unknown>
+#3 0x637a7bfef921 <unknown>
+#4 0x637a7c033c74 <unknown>
+#5 0x637a7c01259d <unknown>
+#6 0x637a7c03102d <unknown>
+#7 0x637a7c012313 <unknown>
+#8 0x637a7bfe2586 <unknown>
+#9 0x637a7bfe2efe <unknown>
+#10 0x637a7c26cbdf <unknown>
+#11 0x637a7c270d6a <unknown>
+#12 0x637a7c25aa3c <unknown>
+#13 0x637a7c2714f1 <unknown>
+#14 0x637a7c24084e <unknown>
+#15 0x637a7c292c88 <unknown>
+#16 0x637a7c292e96 <unknown>
+#17 0x637a7c2a2751 <unknown>
+#18 0x7fa4abd65ac3 <unknown>
+
+License Plate not found for 24P3104402: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=125.0.6422.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x637a7c2a369a <unknown>
+#1 0x637a7bfa465c <unknown>
+#2 0x637a7bfef865 <unknown>
+#3 0x637a7bfef921 <unknown>
+#4 0x637a7c033c74 <unknown>
+#5 0x637a7c01259d <unknown>
+#6 0x637a7c03102d <unknown>
+#7 0x637a7c012313 <unknown>
+#8 0x637a7bfe2586 <unknown>
+#9 0x637a7bfe2efe <unknown>
+#10 0x637a7c26cbdf <unknown>
+#11 0x637a7c270d6a <unknown>
+#12 0x637a7c25aa3c <unknown>
+#13 0x637a7c2714f1 <unknown>
+#14 0x637a7c24084e <unknown>
+#15 0x637a7c292c88 <unknown>
+#16 0x637a7c292e96 <unknown>
+#17 0x637a7c2a2751 <unknown>
+#18 0x7fa4abd65ac3 <unknown>
+
+License Plate not found for 24P3104474: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=125.0.6422.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x637a7c2a369a <unknown>
+#1 0x637a7bfa465c <unknown>
+#2 0x637a7bfef865 <unknown>
+#3 0x637a7bfef921 <unknown>
+#4 0x637a7c033c74 <unknown>
+#5 0x637a7c01259d <unknown>
+#6 0x637a7c03102d <unknown>
+#7 0x637a7c012313 <unknown>
+#8 0x637a7bfe2586 <unknown>
+#9 0x637a7bfe2efe <unknown>
+#10 0x637a7c26cbdf <unknown>
+#11 0x637a7c270d6a <unknown>
+#12 0x637a7c25aa3c <unknown>
+#13 0x637a7c2714f1 <unknown>
+#14 0x637a7c24084e <unknown>
+#15 0x637a7c292c88 <unknown>
+#16 0x637a7c292e96 <unknown>
+#17 0x637a7c2a2751 <unknown>
+#18 0x7fa4abd65ac3 <unknown>
+
+License Plate not found for 24P3104523: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.plate_number"}
+  (Session info: chrome-headless-shell=125.0.6422.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x637a7c2a369a <unknown>
+#1 0x637a7bfa465c <unknown>
+#2 0x637a7bfef865 <unknown>
+#3 0x637a7bfef921 <unknown>
+#4 0x637a7c033c74 <unknown>
+#5 0x637a7c01259d <unknown>
+#6 0x637a7c03102d <unknown>
+#7 0x637a7c012313 <unknown>
+#8 0x637a7bfe2586 <unknown>
+#9 0x637a7bfe2efe <unknown>
+#10 0x637a7c26cbdf <unknown>
+#11 0x637a7c270d6a <unknown>
+#12 0x637a7c25aa3c <unknown>
+#13 0x637a7c2714f1 <unknown>
+#14 0x637a7c24084e <unknown>
+#15 0x637a7c292c88 <unknown>
+#16 0x637a7c292e96 <unknown>
+#17 0x637a7c2a2751 <unknown>
+#18 0x7fa4abd65ac3 <unknown>
+
+finished
+Traceback (most recent call last):
+  File "/home/mack/ParkingData/scr/DataCollection/fresh_data.py", line 22, in <module>
+    df = pd.read_csv(f"../CollectedData/parking_tickets_data_{precinct_code}.csv")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mack/ParkingData/venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mack/ParkingData/venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mack/ParkingData/venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mack/ParkingData/venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "/home/mack/ParkingData/venv/lib/python3.12/site-packages/pandas/io/common.py", line 873, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '../CollectedData/parking_tickets_data_33.csv'
