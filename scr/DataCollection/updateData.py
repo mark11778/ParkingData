@@ -23,7 +23,8 @@ try:
         df = pd.read_csv(f"../CollectedData/parking_tickets_data_{precinct_code}.csv")
 
         lastFound = df['Ticket #'].max()
-        lastNum = int(lastFound[5:])
+        lastNum = int(lastFound[5:]) + 1
+
 
         for ticket_number in range(lastNum, 100000):  # Ticket numbers from 00001 to 99999
             formatted_ticket_number = f"{ticket_number:05}"  # Format to ensure five digits
@@ -31,7 +32,6 @@ try:
             
             start_url = "https://parkingtickets.cityofmadison.com/tickets/"
             driver.get(start_url)
-
             input_element = driver.find_element(By.ID, "ticket_plate_vin")
             input_element.clear()
             input_element.send_keys(full_ticket_number)
@@ -53,6 +53,7 @@ try:
                         strong_following_text = p.text.replace(strong_tag, '').strip()
 
                         if 'Issue Date and Time:' in strong_tag:
+                            print(pd.to_datetime(strong_following_text))
                             data['Date Issue'] = pd.to_datetime(strong_following_text)
                         elif 'Location:' in strong_tag:
                             data['Location'] = strong_following_text
@@ -65,8 +66,12 @@ try:
                     data['Type'] = "Not Found"
                     print(f"Violation Type not found for {full_ticket_number}: {e}")
 
-                data["Hour"] = data['Date Issue'].dt.hour
-                data["Day"] = data['Date Issue'].dt.day_name()
+                try:
+                    data["Hour"] = data['Date Issue'].hour
+                    data["Day"] = data['Date Issue'].day_name()
+                except Exception as e:
+                    print(f"Error processing Date Issue for {full_ticket_number}: {e}")
+                    continue
 
 
                 new_row = pd.DataFrame([data], columns=df.columns)
