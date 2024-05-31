@@ -12,9 +12,10 @@ CORS(app)
 @app.route('/python-function', methods=['GET'])
 def my_python_function():
     days = request.args.get('days', default=30, type=int)
+    ticket_type = request.args.get('type', default="Parking", type=str)
 
-    # colors = ["#0000e6", "#3b00f2", "#5b00fb", "#7e00fa", "#b500d1", "#d70075", "#e60000"]
-    colors = ['#e60000', '#d70075', '#b500d1', '#7e00fa', '#5b00fb', '#3b00f2', '#0000e6']
+    colors = ["#0000e6", "#3b00f2", "#5b00fb", "#7e00fa", "#b500d1", "#d70075", "#e60000"]
+    # colors = ['#e60000', '#d70075', '#b500d1', '#7e00fa', '#5b00fb', '#3b00f2', '#0000e6']
 
     
     path = r'C:\Users\marke\projects\parking\ParkingData\scr\CollectedData' # use your path
@@ -27,6 +28,9 @@ def my_python_function():
         li.append(df)
 
     df = pd.concat(li, axis=0, ignore_index=True)
+
+    if (ticket_type is not None and "all" not in ticket_type):
+        df = df[df['Type #'].str.contains(ticket_type)]
 
     df['Date Issue'] = pd.to_datetime(df['Date Issue'])
 
@@ -53,11 +57,13 @@ def my_python_function():
     grouped_by_type = df.groupby(['Location', 'Type #', 'Most Frequent Hour', 'Most Frequent Day']).size().reset_index(name='Count')
     grouped_by_type = grouped_by_type.sort_values(by=['Location', 'Count'], ascending=[True, False])
 
-    max_count_per_location = grouped_by_type.groupby('Location')['Count'].max().reset_index(name='Max Count')
+    maxCount = grouped_by_type['Count'].max()
 
-    grouped_by_type = grouped_by_type.merge(max_count_per_location, on='Location', how='left')
+    # max_count_per_location = grouped_by_type.groupby('Location')['Count'].max().reset_index(name='Max Count')
 
-    grouped_by_type['color'] = grouped_by_type.apply(lambda row: colors[round(row['Count'] / row['Max Count'] * 6)], axis=1)
+    # grouped_by_type = grouped_by_type.merge(grouped_by_type, on='Location', how='left')
+
+    grouped_by_type['color'] = grouped_by_type.apply(lambda row: colors[round(row['Count'] / maxCount * 6)], axis=1)
 
 
 

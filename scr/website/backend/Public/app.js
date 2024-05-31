@@ -1,3 +1,5 @@
+let polylines = [];
+
 function getCoords(str) {
     if (str === "" || str === null) return [];
     let coords = [];
@@ -9,21 +11,30 @@ function getCoords(str) {
     return coords;
 }
 
-function callPythonFunction(map) {
-    fetch('http://localhost:5000/python-function?data=hello')
+function clearPolylines() {
+    polylines.forEach(polyline => polyline.setMap(null));
+    polylines = [];
+}
+
+function callPythonFunction(map, days, type) {
+    fetch(`http://localhost:5000/python-function?days=${days}&type=${type}`)
         .then(response => response.json())
         .then(data => {
+            clearPolylines(); // Clear existing polylines
+
             if (map == null) return;
             data.result.forEach(item => {
-                if (item.CoordList && item.fullStreetName) {
-                    new google.maps.Polyline({
+                if (item.CoordList && item.Location) {
+                    const polyline = new google.maps.Polyline({
                         path: getCoords(item.CoordList),
-                        tag: item.fullStreetName,
+                        tag: item.Location,
                         geodesic: true,
                         strokeColor: item.color || "#0000FF",
                         strokeOpacity: 1.0,
                         strokeWeight: 4,
-                    }).setMap(map);
+                    });
+                    polyline.setMap(map);
+                    polylines.push(polyline); // Add new polyline to the array
                 }
             });
             const uniqueData = removeDuplicates(data.result, 'fullStreetName');
@@ -61,7 +72,7 @@ function displayDataAsTable(data) {
     // Create header row
     const headerRow = document.createElement('tr');
     Object.keys(data[0]).forEach(key => {
-        if (key !== 'CoordList' && key !== 'color') {  // Skip CoordList and color columns
+        if (key !== 'CoordList' && key !== 'color' && key !== 'fullStreetName') {  // Skip CoordList and color columns
             const th = document.createElement('th');
             th.textContent = key;
             th.addEventListener('click', () => sortTableByColumn(table, key));
@@ -74,7 +85,7 @@ function displayDataAsTable(data) {
     data.forEach(item => {
         const row = document.createElement('tr');
         Object.entries(item).forEach(([key, value]) => {
-            if (key !== 'CoordList' && key !== 'color') {  // Skip CoordList and color columns
+            if (key !== 'CoordList' && key !== 'color' && key !== 'fullStreetName') {  // Skip CoordList and color columns
                 const td = document.createElement('td');
                 td.textContent = value;
                 row.appendChild(td);
@@ -84,6 +95,25 @@ function displayDataAsTable(data) {
     });
 
     container.appendChild(table);
+}
+
+function filterTableByLocation() {
+    const input = document.getElementById('searchInput');
+    const filter = input.value.toLowerCase();
+    const table = document.querySelector('#pythonData table');
+    const rows = Array.from(table.rows).slice(1); // Exclude header row
+
+    rows.forEach(row => {
+        const locationCell = row.cells[1]; // Assuming the Location column is the second column
+        if (locationCell) {
+            const locationText = locationCell.textContent || locationCell.innerText;
+            if (locationText.toLowerCase().indexOf(filter) > -1) {
+                row.style.display = "";
+            } else {
+                row.style.display = "none";
+            }
+        }
+    });
 }
 
 function sortTableByColumn(table, column) {
@@ -113,5 +143,17 @@ window.onload = function() {
         zoom: 14
     });
 
-    callPythonFunction(map);
+    const daysInput = document.getElementById('daysInput');
+    const typeSelect = document.getElementById('typeSelect');
+
+    const filterData = () => {
+        const days = daysInput.value;
+        const type = typeSelect.value;
+        callPythonFunction(map, days, type);
+    };
+
+    daysInput.addEventListener('change', filterData);
+    typeSelect.addEventListener('change', filterData);
+
+    callPythonFunction(map, 30, 'Parking'); 
 };
