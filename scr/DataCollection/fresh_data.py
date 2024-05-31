@@ -26,10 +26,7 @@ try:
         lastNum = int(lastFound[5:])
 
 
-        if "Tick_Num" not in df.columns: 
-            df['Tick_Num'] = df['Ticket #'].str[5:].astype(int)
-        if "Type #" not in df.columns:
-            df['Type #'] = df['Type'].str[:3]
+
         start  = df['Tick_Num'].max()
         for ticket_number in range(start, 100000):  # Ticket numbers from 00001 to 99999
             formatted_ticket_number = f"{ticket_number:05}"  # Format to ensure five digits
