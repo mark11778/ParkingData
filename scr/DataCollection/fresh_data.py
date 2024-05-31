@@ -15,12 +15,17 @@ service = Service(executable_path='/usr/bin/chromedriver')
 driver = webdriver.Chrome(options=options, service=service)
 
 try:
-    year = "24"  # Last two digits of the year
-    for precinct in range(1, 50):  # Loop through precinct codes 01 to 99
-        precinct_code = f"{precinct:02}"  # Format to ensure two digit
+    year = "24"  
+    for precinct in range(1, 32):  
+        precinct_code = f"{precinct:02}"  
         if precinct == 21:
             continue
         df = pd.read_csv(f"../CollectedData/parking_tickets_data_{precinct_code}.csv")
+
+        lastFound = df['Ticket #'].max()
+        lastNum = int(lastFound[5:])
+
+
         if "Tick_Num" not in df.columns: 
             df['Tick_Num'] = df['Ticket #'].str[5:].astype(int)
         if "Type #" not in df.columns:
@@ -57,28 +62,18 @@ try:
                             data['Date Issue'] = pd.to_datetime(strong_following_text)
                         elif 'Location:' in strong_tag:
                             data['Location'] = strong_following_text
-                        elif 'Comment:' in strong_tag:
-                            data['Comment'] = strong_following_text
                     except Exception as e:
                         print(f"Error retrieving part of the data for {full_ticket_number}: {e}")
 
                 try:
-                    data['License Plate'] = driver.find_element(By.CSS_SELECTOR, "div.plate_number").text
-                except Exception as e:
-                    data['License Plate'] = "Not Found"
-                    print(f"License Plate not found for {full_ticket_number}: {e}")
-
-                try:
-                    data['Type'] = wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="violation_surcharge_table"]/tbody/tr[1]/th'))).text
+                    data['Type'] = wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="violation_surcharge_table"]/tbody/tr[1]/th'))).text.split(" ")[0]
                 except Exception as e:
                     data['Type'] = "Not Found"
                     print(f"Violation Type not found for {full_ticket_number}: {e}")
 
-                data['Tick_Num'] = ticket_number
-
                 data['Type #'] = data['Type'].str.split(" ").str[0]
                 data["Hour"] = data['Date Issue'].dt.hour
-                data["DayOfWeek"] = data['Date Issue'].dt.day_name()
+                data["Day"] = data['Date Issue'].dt.day_name()
 
 
                 new_row = pd.DataFrame([data], columns=df.columns)

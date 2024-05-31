@@ -18,7 +18,7 @@ def my_python_function():
     # colors = ['#e60000', '#d70075', '#b500d1', '#7e00fa', '#5b00fb', '#3b00f2', '#0000e6']
 
     
-    path = r'C:\Users\marke\projects\parking\ParkingData\scr\CollectedData' # use your path
+    path = r'C:\Users\marke\projects\parking\ParkingData\scr\website\CollectedData' # use your path
     all_files = glob.glob(os.path.join(path , "*.csv"))
 
     li = []
@@ -30,7 +30,7 @@ def my_python_function():
     df = pd.concat(li, axis=0, ignore_index=True)
 
     if (ticket_type is not None and "all" not in ticket_type):
-        df = df[df['Type #'].str.contains(ticket_type)]
+        df = df[df['Type'].str.contains(ticket_type)]
 
     df['Date Issue'] = pd.to_datetime(df['Date Issue'])
 
@@ -39,22 +39,22 @@ def my_python_function():
     df = df[df['Date Issue'] >= cutoff_date]
     df = df[~df['Location'].str.contains("BUCKEYE LOT")]
 
-    grouped_by_hour = df.groupby(['Location', 'Type #', 'Hour']).size().reset_index(name='Count')
-    most_frequent_hours = grouped_by_hour.loc[grouped_by_hour.groupby(['Location', 'Type #'])['Count'].idxmax()]
+    grouped_by_hour = df.groupby(['Location', 'Type', 'Hour']).size().reset_index(name='Count')
+    most_frequent_hours = grouped_by_hour.loc[grouped_by_hour.groupby(['Location', 'Type'])['Count'].idxmax()]
 
     most_frequent_hours.rename(columns={'Hour': 'Most Frequent Hour', 'Count': 'Max Hour Count'}, inplace=True)
 
-    grouped_by_day = df.groupby(['Location', 'Type #', 'DayOfWeek']).size().reset_index(name='Count')
+    grouped_by_day = df.groupby(['Location', 'Type', 'Day']).size().reset_index(name='Count')
 
-    most_frequent_days = grouped_by_day.loc[grouped_by_day.groupby(['Location', 'Type #'])['Count'].idxmax()]
+    most_frequent_days = grouped_by_day.loc[grouped_by_day.groupby(['Location', 'Type'])['Count'].idxmax()]
 
 
-    most_frequent_days.rename(columns={'DayOfWeek': 'Most Frequent Day', 'Count': 'Max Day Count'}, inplace=True)
+    most_frequent_days.rename(columns={'Day': 'Most Frequent Day', 'Count': 'Max Day Count'}, inplace=True)
 
-    df = df.merge(most_frequent_hours[['Location', 'Type #', 'Most Frequent Hour']], on=['Location', 'Type #'], how='left')
-    df = df.merge(most_frequent_days[['Location', 'Type #', 'Most Frequent Day']], on=['Location', 'Type #'], how='left')
+    df = df.merge(most_frequent_hours[['Location', 'Type', 'Most Frequent Hour']], on=['Location', 'Type'], how='left')
+    df = df.merge(most_frequent_days[['Location', 'Type', 'Most Frequent Day']], on=['Location', 'Type'], how='left')
 
-    grouped_by_type = df.groupby(['Location', 'Type #', 'Most Frequent Hour', 'Most Frequent Day']).size().reset_index(name='Count')
+    grouped_by_type = df.groupby(['Location', 'Type', 'Most Frequent Hour', 'Most Frequent Day']).size().reset_index(name='Count')
     grouped_by_type = grouped_by_type.sort_values(by=['Location', 'Count'], ascending=[True, False])
 
     maxCount = grouped_by_type['Count'].max()
