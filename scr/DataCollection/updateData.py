@@ -25,10 +25,7 @@ try:
         lastFound = df['Ticket #'].max()
         lastNum = int(lastFound[5:])
 
-
-
-        start  = df['Tick_Num'].max()
-        for ticket_number in range(start, 100000):  # Ticket numbers from 00001 to 99999
+        for ticket_number in range(lastNum, 100000):  # Ticket numbers from 00001 to 99999
             formatted_ticket_number = f"{ticket_number:05}"  # Format to ensure five digits
             full_ticket_number = f"{year}P{precinct_code}{formatted_ticket_number}"
             
@@ -68,7 +65,6 @@ try:
                     data['Type'] = "Not Found"
                     print(f"Violation Type not found for {full_ticket_number}: {e}")
 
-                data['Type #'] = data['Type'].str.split(" ").str[0]
                 data["Hour"] = data['Date Issue'].dt.hour
                 data["Day"] = data['Date Issue'].dt.day_name()
 
