@@ -25,8 +25,6 @@ try:
         lastFound = df['Ticket #'].max()
         lastNum = int(lastFound[5:])
 
-
-
         start  = df['Tick_Num'].max()
         for ticket_number in range(start, 100000):  # Ticket numbers from 00001 to 99999
             formatted_ticket_number = f"{ticket_number:05}"  # Format to ensure five digits
@@ -68,10 +66,8 @@ try:
                     data['Type'] = "Not Found"
                     print(f"Violation Type not found for {full_ticket_number}: {e}")
 
-                data['Type #'] = data['Type'].str.split(" ").str[0]
                 data["Hour"] = data['Date Issue'].dt.hour
                 data["Day"] = data['Date Issue'].dt.day_name()
-
 
                 new_row = pd.DataFrame([data], columns=df.columns)
                 df = pd.concat([df, new_row], ignore_index=True)
@@ -82,7 +78,7 @@ try:
                 else:
                     print("df was empty")
 
-                break  # Break if no ticket detail page loaded, adjust as needed based on actual site behavior
+                break  
 
 finally:
     driver.quit()
