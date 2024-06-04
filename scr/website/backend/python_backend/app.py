@@ -19,7 +19,7 @@ def my_python_function():
     # colors = ['#e60000', '#d70075', '#b500d1', '#7e00fa', '#5b00fb', '#3b00f2', '#0000e6']
 
     
-    path = r'C:\Users\marke\projects\parking\ParkingData\scr\CollectedData' # use your path
+    path = r'C:\Users\Mark\project\ParkingData\scr\CollectedData' # use your path
     
     all_files = glob.glob(os.path.join(path , "*.csv"))
 
