@@ -14,8 +14,8 @@ def my_python_function():
     days = request.args.get('days', default=30, type=int)
     ticket_type = request.args.get('type', default="Parking", type=str)
 
-    # colors = ["#0000e6", "#3b00f2", "#5b00fb", "#7e00fa", "#b500d1", "#d70075", "#e60000"]
-    colors = ["#ff1a1a", "#f25250", "#e47075","#d28899", "#bd9cbb", "#a3addd", "#80bdff"]
+    colors = ["#0000e6", "#3b00f2", "#5b00fb", "#7e00fa", "#b500d1", "#d70075", "#e60000"]
+    # colors = ["#ff1a1a", "#f25250", "#e47075","#d28899", "#bd9cbb", "#a3addd", "#80bdff"]
     # colors = ['#e60000', '#d70075', '#b500d1', '#7e00fa', '#5b00fb', '#3b00f2', '#0000e6']
 
     
