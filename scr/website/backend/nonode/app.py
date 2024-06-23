@@ -26,13 +26,25 @@ ds= pd.concat(li, axis=0, ignore_index=True)
 def index():
     return render_template('index.html')
 
-@app.route('/python-function', methods=['GET'])
-def my_python_function():
+@app.route('/python-function', methods=['POST'])
+def python_function():
+    days = request.form.get('days', default=30, type=int)
+    ticket_type = request.form.get('type', default='Parking', type=str)
+
+    # Your logic to get data based on `days` and `ticket_type`
+    data = get_UserData(days, ticket_type)  # replace this with your actual data fetching logic
+
+    return jsonify(result=data)
+
+
+
+
+def get_UserData(days, ticket_type):
     global ds
     df = ds
 
-    days = request.args.get('days', default=30, type=int)
-    ticket_type = request.args.get('type', default="Parking", type=str)
+    # days = request.args.get('days', default=30, type=int)
+    # ticket_type = request.args.get('type', default="Parking", type=str)
 
     colors = ["#0000e6", "#3b00f2", "#5b00fb", "#7e00fa", "#b500d1", "#d70075", "#e60000"]
     # colors = ["#ff1a1a", "#f25250", "#e47075","#d28899", "#bd9cbb", "#a3addd", "#80bdff"]
@@ -88,7 +100,8 @@ def my_python_function():
     csv_data = grouped_by_type.to_dict(orient='records')
 
     print(f"Python function ran with data: {csv_data}")  # Log to console
-    return jsonify({'result': csv_data})
+    return csv_data
+    # return jsonify({'result': csv_data})
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000)
