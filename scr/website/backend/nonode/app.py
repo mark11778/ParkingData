@@ -24,6 +24,8 @@ ds= pd.concat(li, axis=0, ignore_index=True)
 
 @app.route('/')
 def index():
+    global ds
+    print(ds)
     return render_template('index.html')
 
 @app.route('/python-function', methods=['POST'])
@@ -86,7 +88,7 @@ def get_UserData(days, ticket_type):
 
     # grouped_by_type = grouped_by_type.merge(grouped_by_type, on='Location', how='left')
 
-    grouped_by_type['color'] = grouped_by_type.apply(lambda row: colors[round(row['Count'] / maxCount * 6)], axis=1)
+    # grouped_by_type['color'] = grouped_by_type.apply(lambda row: colors[round(row['Count'] / maxCount * 6)], axis=1)
 
 
 
