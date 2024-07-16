@@ -61,7 +61,16 @@ try:
                         print(f"Error retrieving part of the data for {full_ticket_number}: {e}")
 
                 try:
-                    data['Type'] = wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="violation_surcharge_table"]/tbody/tr[1]/th'))).text.split(" ")[0]
+                        type_element = wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="violation_surcharge_table"]/tbody/tr[1]/th')))
+                        violation_type = type_element.text.split(" ")[0]
+                        
+                        # Update the 'Type' in `data` dictionary based on conditions
+                        if violation_type in ['005', '007']:
+                            data['Type'] = "Parking"
+                        elif violation_type == '009':
+                            data['Type'] = "Meter"
+                        else:
+                            data['Type'] = violation_type
                 except Exception as e:
                     data['Type'] = "Not Found"
                     print(f"Violation Type not found for {full_ticket_number}: {e}")
