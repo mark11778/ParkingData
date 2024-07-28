@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parking Madison</title>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAyvtzdtqsAA62RG93Rr8bVcpc6MkfyjEQ&callback=initMap"></script>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; display: flex; flex-direction: column; height: 100vh; }
+        header, footer { background-color: #f8f9fa; padding: 10px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        #map { flex: 0 0 50%; width: 100%; }
+        #data { flex: 1; overflow: auto; padding: 20px; background-color: #f4f4f4; }
+        #pythonData { text-align: center; }
+        #pythonData table { margin-left: auto; margin-right: auto; border-collapse: collapse; width: 100%; max-width: 1000px; background-color: white; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        #pythonData th, #pythonData td { border: 1px solid #ddd; padding: 8px; }
+        th { cursor: pointer; background-color: #f2f2f2; }
+        #filtersForm { display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 20px; }
+        #filtersForm label, #filtersForm input, #filtersForm select { font-size: 16px; }
+        #searchInput { padding: 8px; width: calc(100% - 40px); max-width: 500px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        .form-group { display: flex; flex-direction: column; align-items: flex-start; }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <div id="data">
+        <form id="filtersForm" method="POST" action="/python-function">
+            <div class="form-group">
+                <label for="searchInput">Search by Location:</label>
+                <input type="text" id="searchInput" placeholder="Search for locations...">
+            </div>
+            <div class="form-group">
+                <label for="typeSelect">Select ticket type:</label>
+                <select id="typeSelect" name="type">
+                    <option value="Parking">Parking</option>
+                    <option value="Meter">Meter</option>
+                    <option value="all">All</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="daysInput">Number of Days of History: </label>
+                <input type="number" id="daysInput" name="days" min="1" value="30">
+            </div>
+        </form>
+        <div id="pythonData"></div>
+        <footer>
+            <p>&copy; 2024 Parking Madison. All rights reserved.</p>
+        </footer>
+    </div>
+    <script>
+        let map;
+        let polylines = [];
+
+        function initMap() {
+            map = new google.maps.Map(document.getElementById('map'), {
+                center: { lat: 43.0722, lng: -89.4008 },
+                zoom: 14
+            });
+        }
+
+        function getCoords(str) {
+            if (str === "" || str === null) return [];
+            let coords = [];
+            let listCoords = str.slice(1, -1).split(",");
+            if (listCoords.length <= 1) return coords;
+            for (let i = 0; i < (listCoords.length / 2); i++) {
+                coords.push({ lat: Number(listCoords[i * 2 + 1].slice(0, -1)), lng: Number(listCoords[i * 2].trim().slice(1)) });
+            }
+            return coords;
+        }
+
+        function clearPolylines() {
+            polylines.forEach(polyline => polyline.setMap(null));
+            polylines = [];
+        }
+
+        function updateMap(data) {
+            clearPolylines();
+
+            if (data.result) {
+                data.result.forEach(item => {
+                    if (item.CoordList && item.Location) {
+                        const polyline = new google.maps.Polyline({
+                            path: getCoords(item.CoordList),
+                            tag: item.Location,
+                            geodesic: true,
+                            strokeColor: item.color || "#0000FF",
+                            strokeOpacity: 1.0,
+                            strokeWeight: 4,
+                        });
+                        polyline.setMap(map);
+                        polylines.push(polyline);
+                    }
+                });
+                const uniqueData = removeDuplicates(data.result, 'fullStreetName');
+                displayDataAsTable(uniqueData);
+            }
+        }
+
+        function removeDuplicates(data, key) {
+            const seen = new Set();
+            return data.filter(item => {
+                const value = item[key];
+                if (seen.has(value)) {
+                    return false;
+                }
+                seen.add(value);
+                return true;
+            });
+        }
+
+        function displayDataAsTable(data) {
+            const container = document.getElementById('pythonData');
+            container.innerHTML = '';  // Clear previous data
+
+            if (data.length === 0) {
+                container.textContent = 'No data available';
+                return;
+            }
+
+            const table = document.createElement('table');
+            table.border = '1';
+            table.dataset.sortOrder = 'asc';
+
+            const headerRow = document.createElement('tr');
+            Object.keys(data[0]).forEach(key => {
+                if (key !== 'CoordList' && key !== 'color' && key !== 'fullStreetName') {
+                    const th = document.createElement('th');
+                    th.textContent = key;
+                    th.addEventListener('click', () => sortTableByColumn(table, key));
+                    headerRow.appendChild(th);
+                }
+            });
+            table.appendChild(headerRow);
+
+            data.forEach(item => {
+                const row = document.createElement('tr');
+                Object.entries(item).forEach(([key, value]) => {
+                    if (key !== 'CoordList' && key !== 'color' && key !== 'fullStreetName') {
+                        const td = document.createElement('td');
+                        td.textContent = value;
+                        row.appendChild(td);
+                    }
+                });
+                table.appendChild(row);
+            });
+
+            container.appendChild(table);
+
+            document.getElementById('searchInput').addEventListener('input', filterTableByLocation);
+        }
+
+        function filterTableByLocation() {
+            const input = document.getElementById('searchInput');
+            const filter = input.value.toLowerCase();
+            const table = document.querySelector('#pythonData table');
+            const rows = Array.from(table.rows).slice(1);
+
+            rows.forEach(row => {
+                const locationCell = row.cells[1];
+                if (locationCell) {
+                    const locationText = locationCell.textContent || locationCell.innerText;
+                    if (locationText.toLowerCase().indexOf(filter) > -1) {
+                        row.style.display = "";
+                    } else {
+                        row.style.display = "none";
+                    }
+                }
+            });
+        }
+
+        function sortTableByColumn(table, column) {
+            const rowsArray = Array.from(table.rows).slice(1);
+            const columnIndex = Array.from(table.rows[0].cells).findIndex(th => th.textContent === column);
+            const isAscending = table.dataset.sortOrder === 'asc';
+
+            rowsArray.sort((rowA, rowB) => {
+                const cellA = rowA.cells[columnIndex].textContent;
+                const cellB = rowB.cells[columnIndex].textContent;
+
+                if (isAscending) {
+                    return cellA.localeCompare(cellB, undefined, { numeric: true });
+                } else {
+                    return cellB.localeCompare(cellA, undefined, { numeric: true });
+                }
+            });
+
+            rowsArray.forEach(row => table.appendChild(row));
+
+            table.dataset.sortOrder = isAscending ? 'desc' : 'asc';
+        }
+
+        function fetchData() {
+            const formData = new FormData(document.getElementById('filtersForm'));
+            fetch('/python-function', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => updateMap(data))
+            .catch(error => console.error('Error:', error));
+        }
+
+        window.onload = function() {
+            initMap();
+
+            document.getElementById('searchInput').addEventListener('input', fetchData);
+            document.getElementById('typeSelect').addEventListener('change', fetchData);
+            document.getElementById('daysInput').addEventListener('change', fetchData);
+
+            fetchData();
+        };
+    </script>
+</body>
+</html>
