@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "fast-csv": "^5.0.1",
-    "papaparse": "^5.4.1"
-  },
-  "devDependencies": {
-    "@types/node": "^20.12.12"
-  }
-}
