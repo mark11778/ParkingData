@@ -19,7 +19,7 @@ TODO: Write a script to acryously refresh data when new data is expected
 """
 def read_and_concatenate_files():
     global df, most_recent
-    path = '../../../CollectedData'
+    path = '../../CollectedData'
     all_files = glob.glob(os.path.join(path , "*.csv"))
     for filename in all_files:
         _ = pd.read_csv(filename, index_col=None, header=0)
