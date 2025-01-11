@@ -35,8 +35,8 @@ Home page that when a user connects a default data is displayed
 """
 @app.route('/')
 def index():
-    global df
-    return render_template('index.html')
+    api_key = os.getenv('GOOGLE_MAPS_API_KEY')
+    return render_template('index.html', api_key=api_key)
 
 @app.route('/getData', methods=['POST'])
 def getData():
@@ -92,4 +92,4 @@ def get_UserData(days, ticket_type):
 
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5001)
+    app.run(debug=True, port=5000)
